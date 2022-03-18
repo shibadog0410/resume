@@ -1,16 +1,23 @@
 # 職務経歴書
+
+
 # 概要
 
 
 # スキル
 
+
 # 職務経歴
 
 
 # 保有資格
-資格	取得年
-TOEIC620点　2019
-基本情報技術者 2021
-LInux Essentials 2021
+
+| 資格 | 取得年 |
+| --- | --- |
+| TOEIC 620 | 2019 |
+| 基本情報技術者 | 2021 |
+| Linux Essentials | 2021 |
 
 # ブログ等
+
+https://twitter.com/Shiba__GG
