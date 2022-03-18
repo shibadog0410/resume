@@ -18,6 +18,6 @@
 | 基本情報技術者 | 2021 |
 | Linux Essentials | 2021 |
 
-# ブログ等
+# SNS・ブログ等
 
 https://twitter.com/Shiba__GG
