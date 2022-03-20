@@ -87,3 +87,4 @@
 
 - twitter : https://twitter.com/Shiba__GG
 - qiita : https://qiita.com/shiba0410
+- note : https://note.com/shiba1206
