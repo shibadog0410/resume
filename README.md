@@ -6,9 +6,16 @@
 | --- | --- |
 | 氏名 | 柴 友行 (Shiba Tomoyuki) |
 | 生年月日 | 1996/12/06 |
-| Twitter | [@Shiba__GG](https://twitter.com/Shiba__GG) |
-| Qiita | [@shiba0410](https://qiita.com/shiba0410) |
-| note | [Shiba](https://note.com/shiba1206) |
+| 居住地 | 東京都 |
+| 最終学歴 | 成蹊大学理工学部情報科学科 |
+
+## 各種アカウント
+<p>
+<a href="https://github.com/shibadog0410" target="_blank"><img alt="Github" src="https://img.shields.io/badge/shibadog0410-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
+<a href="https://twitter.com/Shiba__GG" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/@Shiba__GG-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
+<a href="https://qiita.com/shiba0410" target="_blank"><img alt="qiita" src="https://img.shields.io/badge/shiba0410-55C500.svg?&style=flat-square&logo=qiita&logoColor=white" /></a>
+<a href="https://note.com/shiba1206" target="_blank">note</a>
+</p>
 
 
 ## 保有資格
