@@ -106,7 +106,7 @@
 - 2021年12月ごろに胃がんの転移と再発が認められたため、現在は抗がん剤治療を継続しつつ参画しています。
 
 ## 他
-- phperkaigi2022 当日スタッフ
+- phperkaigi 2022 当日スタッフ
 - PHPTechCafe LT登壇 
    - [Laravel8ユーザーから見た Laravel9の推し機能](https://www.docswell.com/s/Shiba/ZMY7GZ-2022-03-30-190057)
    - [PHPerKaigi当日スタッフで初参加してみた](https://www.docswell.com/s/Shiba/5613PZ-2022-04-19-193205)
