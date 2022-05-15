@@ -105,7 +105,7 @@
 - 休職期間は身体の様子を見ながら基本情報技術者試験とLinux Essentialsの勉強をして合格しました。
 - 2021年12月ごろに胃がんの転移と再発が認められたため、現在は抗がん剤治療を継続しつつ参画しています。
 
-## 他
+## 他、活動など
 - [HackerRank](https://www.hackerrank.com/shibadog0410)
 - phperkaigi 2022 当日スタッフ
 - PHPTechCafe LT登壇 
